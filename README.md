@@ -9,3 +9,4 @@ Have fun and add suggestions and comments.
 #### Data Source: 
 https://www.kaggle.com/code/ridamahmood005/120-years-of-olympics-seaborn-plotly
 
+![Women attendance evolution](/Users/anaantonello/Desktop/Jupter NoteBooks/Exported-Jupiter/Gender_Years.jpeg)
