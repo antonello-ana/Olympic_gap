@@ -7,6 +7,6 @@ Here you gonna see some aspects of this story while I learn coding with Python a
 Have fun and add suggestions and comments.
 
 #### Data Source: 
-https://www.kaggle.com/code/ridamahmood005/120-years-of-olympics-seaborn-plotly
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 
